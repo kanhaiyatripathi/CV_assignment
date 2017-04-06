@@ -1,0 +1,4 @@
+Length of reference object(in pixel) : 1.150746e+03
+Length of pen(in pixel) : 3.286002e+03
+Length of pen (in mm) : 1.284993e+02
+Length of pen (in cm) : 1.284993e+01
